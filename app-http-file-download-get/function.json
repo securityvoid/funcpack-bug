@@ -9,7 +9,7 @@
    "methods": [
     "GET"
    ],
-   "route": "/Test"
+   "route": "Test"
   },
   {
    "name": "res",
