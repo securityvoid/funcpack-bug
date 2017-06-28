@@ -9,16 +9,12 @@
    "methods": [
     "GET"
    ],
-   "route": "{type:regex(^((dists)|(pool)))}/{*file}"
+   "route": "/Test"
   },
   {
    "name": "res",
    "type": "http",
    "direction": "out"
   }
- ],
- "originalEntryPoint": false,
- "originalScriptFile": "index.js",
- "scriptFile": "../.funcpack/index.js",
- "entryPoint": "app$dashhttp-file-download-get"
+ ]
 }
