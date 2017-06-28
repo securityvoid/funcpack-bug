@@ -1,0 +1,10 @@
+{"id":"c7acea37c7acea37c7acea37c7acea37",
+  "functionTimeout": "00:05:00",
+  "http": {
+    "routePrefix": ""
+  },
+  "tracing": {
+    "consoleLevel": "verbose",
+    "fileLoggingMode": "always"
+  }
+}
