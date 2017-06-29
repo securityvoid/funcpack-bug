@@ -1,0 +1,3 @@
+PACKGIT_BRANCH=build
+PACKGIT_SKIPCOMMIT=false
+PACKGIT_EXCLUDED_ITEMS=[".git", ".idea", "node_modules", "dist", "package.json", ".gitignore", ".gitmodules", ".npmignore", ".masterpack", ".funcpack", "funcpack.config.json"]
